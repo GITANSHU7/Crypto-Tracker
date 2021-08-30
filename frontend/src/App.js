@@ -73,9 +73,7 @@ function App() {
                     <p className="coin-price">₹{coin.current_price}</p>
                
                 </div>
-                <div className="coin-save">
-                    <button className= "btn btn-success">Save</button>
-                </div>
+               
             </div>
             
         </div>
